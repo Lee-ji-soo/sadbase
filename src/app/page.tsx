@@ -5,7 +5,7 @@ export default function Home() {
     <main className='relative flex justify-center items-center w-[100vw] h-[100svh] bg-[#fff]'>
       <div>
         <Image
-          className='p-[20px]'
+          className='p-[40px]'
           priority={true}
           src='/bgs/sadness_transparent.png'
           alt='sadbase_ogImage'
