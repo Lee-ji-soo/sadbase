@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang='ko'>
       <link rel='icon' href='./icon.ico' sizes='any' />
-      <meta property='og:image' content='/ogImage/sadness_.png' />
+      <meta property='og:image' content='/ogImage/1200x630.png' />
       <meta property='og:image:alt' content='sadbase' />
       <meta property='og:image:type' content='image/png' />
       <meta property='og:image:width' content='850' />
