@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function Home() {
   return (
-    <main className='relative flex justify-center items-center w-[100vw] h-[100vh] bg-[#fff]'>
+    <main className='relative flex justify-center items-center w-[100vw] h-[100svh] bg-[#fff]'>
       <div>
         <Image
           className='p-[20px]'
@@ -14,7 +14,7 @@ export default function Home() {
         />
       </div>
       <a
-        className='absolute bottom-[100px] hover:opacity-80'
+        className='absolute bottom-[80px] hover:opacity-80'
         href='https://twitter.com/sadnessonbase'
         target='_blank'
       >
