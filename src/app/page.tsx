@@ -7,7 +7,7 @@ export default function Home() {
         <Image
           className='p-[40px]'
           priority={true}
-          src='/bgs/sadness_transparent.png'
+          src='/bgs/sd.gif'
           alt='sadbase_ogImage'
           width={400}
           height={400}
